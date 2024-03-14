@@ -1,0 +1,230 @@
+[
+  {
+    "name": "laptop 1",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 50000,
+    "rating": 3,
+    "images": [
+      {
+        "public_id": "p2 idd",
+        "url": "https://m.media-amazon.com/images/I/712raiwnj9L._AC_UY327_FMwebp_QL65_.jpg"
+      }
+    ],
+    "category": "laptop",
+    "stock": 10,
+    "numOfReviews": 20,
+    "isLatest": false,
+    "isRecom": true,
+    "date": "04/03/2024, 1:16:38 pm",
+    "reviews": []
+  },
+  {
+    "name": "laptop2",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 55000,
+    "rating": 4,
+    "images": [
+      {
+        "public_id": "p2 idd",
+        "url": "https://m.media-amazon.com/images/I/71RMDhcnHtL._AC_UY327_FMwebp_QL65_.jpg"
+      }
+    ],
+    "category": "laptop",
+    "stock": 10,
+    "numOfReviews": 30,
+    "isLatest": true,
+    "isRecom": false,
+    "date": "04/03/2024, 1:16:38 pm",
+    "reviews": []
+  },
+  {
+    "name": "Mobile 1",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 5000,
+    "rating": 4.5,
+    "images": [
+      {
+        "public_id": "p2 idd",
+        "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0OTM2MzQwNTMxODU1MDcyOjE3MTAzMTM5ODg6c3BfYXRmOjMwMDE0NDQxMTQ3NTczMjo6MDo6&url=%2FXiaomi-White-12GB-512GB-Storage%2Fdp%2FB0CW3H8YKD%2Fref%3Dsr_1_1_sspa%3Fcrid%3D2O6BR6S3OBYZX%26dib%3DeyJ2IjoiMSJ9.jLUC7C3c6DDqqGCSfYr_LwY97pmUEZYjdfQwK07puu9f8o-jrD461HrWSVbe4D78HOse_uk74ZMqJJWisR0JWpTw0eDQd_COHEhugxjqmKwWC6-6P7GW6uoV5Zsz4J5oOCEDNyWw8P6t7K8EkKyJpcE0PG3VkcZZ-hFFvnuQRG3UKy798WlYnH1flAIdE8L5nj7puO0tzc0XzBjiswmZ9OO2GkykN_HCW-AcnYZ_x8c.KMOpbInaxVii1XsJvQDje2uNcGo-1n_5RXeuenDXoe0%26dib_tag%3Dse%26keywords%3Dmobile%26qid%3D1710313988%26sprefix%3Dmobi%252Caps%252C564%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+      }
+    ],
+    "category": "mobile",
+    "stock": 10,
+    "numOfReviews": 35,
+    "isLatest": false,
+    "isRecom": true,
+    "date": "04/03/2024, 1:16:38 pm",
+    "reviews": []
+  },
+  {
+    "name": "Mobile 2",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 50500,
+    "rating": 4.7,
+    "images": [
+      {
+        "public_id": "p2 idd",
+        "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0OTM2MzQwNTMxODU1MDcyOjE3MTAzMTM5ODg6c3BfYXRmOjMwMDE0NDQxMTQ3NTczMjo6MDo6&url=%2FXiaomi-White-12GB-512GB-Storage%2Fdp%2FB0CW3H8YKD%2Fref%3Dsr_1_1_sspa%3Fcrid%3D2O6BR6S3OBYZX%26dib%3DeyJ2IjoiMSJ9.jLUC7C3c6DDqqGCSfYr_LwY97pmUEZYjdfQwK07puu9f8o-jrD461HrWSVbe4D78HOse_uk74ZMqJJWisR0JWpTw0eDQd_COHEhugxjqmKwWC6-6P7GW6uoV5Zsz4J5oOCEDNyWw8P6t7K8EkKyJpcE0PG3VkcZZ-hFFvnuQRG3UKy798WlYnH1flAIdE8L5nj7puO0tzc0XzBjiswmZ9OO2GkykN_HCW-AcnYZ_x8c.KMOpbInaxVii1XsJvQDje2uNcGo-1n_5RXeuenDXoe0%26dib_tag%3Dse%26keywords%3Dmobile%26qid%3D1710313988%26sprefix%3Dmobi%252Caps%252C564%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+      }
+    ],
+    "category": "mobile",
+    "stock": 11,
+    "numOfReviews": 350,
+    "isLatest": true,
+    "isRecom": false,
+    "date": "04/03/2024, 1:16:38 pm",
+    "reviews": []
+  },
+  {
+    "name": "Tablet 1",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 15000,
+    "rating": 4,
+    "images": [
+      {
+        "public_id": "p2 idd",
+        "url": "https://m.media-amazon.com/images/I/712raiwnj9L._AC_UY327_FMwebp_QL65_.jpg"
+      }
+    ],
+    "category": "tablet",
+    "stock": 10,
+    "numOfReviews": 20,
+    "isLatest": false,
+    "isRecom": true,
+    "date": "04/03/2024, 1:16:38 pm",
+    "reviews": []
+  },
+  {
+    "name": "Tablet 2",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 18000,
+    "rating": 4.2,
+    "images": [
+      {
+        "public_id": "p2 idd",
+        "url": "https://m.media-amazon.com/images/I/71RMDhcnHtL._AC_UY327_FMwebp_QL65_.jpg"
+      }
+    ],
+    "category": "tablet",
+    "stock": 10,
+    "numOfReviews": 30,
+    "isLatest": true,
+    "isRecom": false,
+    "date": "04/03/2024, 1:16:38 pm",
+    "reviews": []
+  },
+  {
+    "name": "Smartwatch 1",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 8000,
+    "rating": 3.8,
+    "images": [
+      {
+        "public_id": "p2 idd",
+        "url": "https://m.media-amazon.com/images/I/712raiwnj9L._AC_UY327_FMwebp_QL65_.jpg"
+      }
+    ],
+    "category": "smartwatch",
+    "stock": 10,
+    "numOfReviews": 20,
+    "isLatest": false,
+    "isRecom": true,
+    "date": "04/03/2024, 1:16:38 pm",
+    "reviews": []
+  },
+  {
+    "name": "Smartwatch 2",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 10000,
+    "rating": 4.5,
+    "images": [
+      {
+        "public_id": "p2 idd",
+        "url": "https://m.media-amazon.com/images/I/71RMDhcnHtL._AC_UY327_FMwebp_QL65_.jpg"
+      }
+    ],
+    "category": "smartwatch",
+    "stock": 10,
+    "numOfReviews": 30,
+    "isLatest": true,
+    "isRecom": false,
+    "date": "04/03/2024, 1:16:38 pm",
+    "reviews": []
+  },
+  {
+    "name": "Speaker 1",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 3000,
+    "rating": 4.2,
+    "images": [
+      {
+        "public_id": "p2 idd",
+        "url": "https://m.media-amazon.com/images/I/712raiwnj9L._AC_UY327_FMwebp_QL65_.jpg"
+      }
+    ],
+    "category": "speaker",
+    "stock": 10,
+    "numOfReviews": 20,
+    "isLatest": false,
+    "isRecom": true,
+    "date": "04/03/2024, 1:16:38 pm",
+    "reviews": []
+  },
+  {
+    "name": "Speaker 2",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 5000,
+    "rating": 4.7,
+    "images": [
+      {
+        "public_id": "p2 idd",
+        "url": "https://m.media-amazon.com/images/I/71RMDhcnHtL._AC_UY327_FMwebp_QL65_.jpg"
+      }
+    ],
+    "category": "speaker",
+    "stock": 10,
+    "numOfReviews": 30,
+    "isLatest": true,
+    "isRecom": false,
+    "date": "04/03/2024, 1:16:38 pm",
+    "reviews": []
+  },
+  {
+    "name": "Headphones 1",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 2000,
+    "rating": 4.5,
+    "images": [
+      {
+        "public_id": "p2 idd",
+        "url": "https://m.media-amazon.com/images/I/712raiwnj9L._AC_UY327_FMwebp_QL65_.jpg"
+      }
+    ],
+    "category": "headphones",
+    "stock": 10,
+    "numOfReviews": 20,
+    "isLatest": false,
+    "isRecom": true,
+    "date": "04/03/2024, 1:16:38 pm",
+    "reviews": []
+  },
+  {
+    "name": "Headphones 2",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 2500,
+    "rating": 4.8,
+    "images": [
+      {
+        "public_id": "p2 idd",
+        "url": "https://m.media-amazon.com/images/I/71RMDhcnHtL._AC_UY327_FMwebp_QL65_.jpg"
+      }
+    ],
+    "category": "headphones",
+    "stock": 10,
+    "numOfReviews": 30,
+    "isLatest": true,
+    "isRecom": false,
+    "date": "04/03/2024, 1:16:38 pm",
+    "reviews": []
+  }
+]
